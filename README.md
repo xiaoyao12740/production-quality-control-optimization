@@ -1,4 +1,4 @@
-**# Production Quality Inspection and Rework Decision Optimization
+# Production Quality Inspection and Rework Decision Optimization
 
 基于 MATLAB 的产品装配、质量检测、拆解返工与利润优化决策项目。
 
