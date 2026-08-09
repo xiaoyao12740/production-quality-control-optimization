@@ -2,7 +2,7 @@
 
 <p align="center"><strong>贯通抽样检验、装配决策、拆解返工、利润分析与稳健性评估的多阶段质量控制模型。</strong><br>A multi-stage quality-control framework connecting sampling inspection, assembly decisions, disassembly/rework, profit analysis, and robustness checks.</p>
 
-<p align="center">![Tech](https://img.shields.io/badge/stack-MATLAB-2563eb) ![Docs](https://img.shields.io/badge/docs-中文%20%7C%20English-16a34a) ![Status](https://img.shields.io/badge/status-portfolio--ready-f59e0b)</p>
+<p align="center"><img alt="Tech stack" src="https://img.shields.io/badge/stack-MATLAB-2563eb"> <img alt="Documentation language" src="https://img.shields.io/badge/docs-中文%20%7C%20English-16a34a"> <img alt="Project status" src="https://img.shields.io/badge/status-portfolio--ready-f59e0b"></p>
 
 <p align="center"><a href="#中文说明">中文</a> · <a href="#english">English</a> · <a href="#结果展示--results">结果展示 / Results</a> · <a href="#复现--reproduction">复现 / Reproduction</a></p>
 
